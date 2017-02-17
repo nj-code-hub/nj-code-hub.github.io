@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: NJ的博客 | BY Blog
+title: NJ Blog
+SEOTitle: NJ的博客 | NJ Blog
 header-img: img/post-bg-rwd.jpg
 email: qiubaiying@gmail.com
 description: "每个胜利背后都有许多尝试"
-keyword: "BY, BY Blog, NJ的博客, android, iOS, Apple, iPhone"
+keyword: "NJ, NJ Blog, NJ的博客, android, iOS, Apple, iPhone"
 url: "https://nj-code-hub.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
